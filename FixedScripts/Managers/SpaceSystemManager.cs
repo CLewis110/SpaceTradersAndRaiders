@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//Created by teammate
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditorInternal;
 using UnityEngine;
