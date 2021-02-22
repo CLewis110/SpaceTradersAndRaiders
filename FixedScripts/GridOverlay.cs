@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+// Created by teammate 
+using UnityEngine;
 using System.Collections;
 
 public class GridOverlay : MonoBehaviour
